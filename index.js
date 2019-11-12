@@ -1,3 +1,3 @@
-let element = document.createElement('main')
-let main=document.getElementById('main');
+let element = document.createElement(h1)
+document.body.createElement(h1).appendChild(element);
 main.appendChild(element)
