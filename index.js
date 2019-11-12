@@ -1,2 +1,2 @@
 
-document.body.createElement(h1).appendChild(element);
+let h1=document.createElement(h1);
